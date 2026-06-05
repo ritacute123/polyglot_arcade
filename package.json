@@ -1,0 +1,11 @@
+{
+  "name": "polyglot-arcade",
+  "version": "1.0.0",
+  "description": "A gamified language proficiency app with a secure Node backend for OpenAI evaluation.",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  }
+}
